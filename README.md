@@ -24,9 +24,9 @@ My educational background bridges engineering, data analytics, and management, e
 
 - **Programming Languages:** Python, Java, C#, SQL, PHP  
 - **ML/AI Libraries:** scikit-learn, pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras  
-- **Tools:** Jupyter Notebook, Google Colab, GitHub, Apache NetBeans, SPSS, Minitab, WEKA, SmartPLS  
-- **Databases:** MySQL, PostgreSQL, MS dbac  
-- **Other:** Microsoft Office, ERP systems  
+- **Tools:** Jupyter Notebook, Google Colab, GitHub, SmartPLS  
+- **Databases:** MySQL, PostgreSQL 
+- **Other:** Microsoft Office, Apache NetBeans, SPSS, Minitab, WEKA 
 - **Languages:** Fluent in English & Arabic
 
 ---
