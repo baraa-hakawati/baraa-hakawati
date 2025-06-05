@@ -89,7 +89,7 @@ My educational background bridges engineering, data analytics, and management, e
 Feel free to explore my repositories or connect with me professionally:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/baraa-hakawati-b8a07a1b3)  
-- 📧 Email: baraa-hakawati@hotmail.com  
+- 📧 baraa-hakawati@hotmail.com  
 - 🧠 [ResearchGate](https://www.researchgate.net/profile/Baraa-Hakawati)
 
 ---
