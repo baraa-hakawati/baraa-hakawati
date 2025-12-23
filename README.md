@@ -1,98 +1,92 @@
-# 👋 Hi, I’m Baraa A. Hakawati
+# 👋 Baraa A. Hakawati
 
-🎓 Master of Engineering Management  
-📍 Palestine | 🧠 Digital Transformation & Data Analytics Specialist  
-📧 baraa-hakawati@hotmail.com | 📞 +970-59-950-7051  
-🔗 [LinkedIn](https://www.linkedin.com/in/baraa-hakawati-b8a07a1b3)
+**Data Analytics | Machine Learning | Digital Transformation | Applied Research**
 
----
-
-## 👨‍💻 About Me
-
-I am a dynamic and interdisciplinary Data Science and Digital Transformation Specialist with a passion for innovation, smart systems, and data-driven decision-making. I specialize in:
-
-- Building predictive models using Python and ML libraries (scikit-learn, TensorFlow, Keras)
-- Developing smart energy management systems
-- Researching sustainable engineering practices and digital transformation
-- Delivering machine learning solutions for industries such as insurance and retail
-
-My educational background bridges engineering, data analytics, and management, empowering me to lead digital innovation initiatives across domains.
+I am an Engineering Management graduate and applied data analytics specialist with a strong academic orientation toward **data-driven decision making**, **machine learning**, and **digital transformation**. My work lies at the intersection of **analytics, management science, and emerging technologies**, with a focus on translating analytical methods into practical and scalable solutions.
 
 ---
 
-## 🔧 Technical Skills
+## 🔬 Research & Technical Interests
 
-- **Programming Languages:** Python, Java, C#, SQL, PHP  
-- **ML/AI Libraries:** scikit-learn, pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras  
-- **Tools:** Jupyter Notebook, Google Colab, GitHub, SmartPLS  
-- **Databases:** MySQL, PostgreSQL 
-- **Other:** Microsoft Office, Apache NetBeans, SPSS, Minitab, WEKA 
-- **Languages:** Fluent in English & Arabic
-
----
-
-## 📊 Featured Projects
-
-### 🔹 [Optimize Retail Inventory Through Sales Prediction](https://github.com/baraa-hakawati/Prediction-of-Product-Sales)
-> Developed a robust ML pipeline to forecast retail product sales with 85% accuracy using custom imputation techniques and Random Forest regression optimization.
-
-### 🔹 [Car Insurance Claim Analysis](https://github.com/baraa-hakawati/Car-Insurance-Claim-Analysis)
-> Conducted EDA and predictive modeling to assess claim probabilities, enabling smarter risk evaluation.
-
-### 🔹 [REAL TOR - Real Estate Web App](https://github.com/baraa-hakawati/REAL-TOR)
-> A full-stack web application for real estate listings, developed from scratch as a graduation project on Ubuntu server.
+- Data Analytics and Business Intelligence  
+- Machine Learning and Predictive Modeling  
+- Time Series Analysis and Forecasting  
+- Big Data Analytics and Decision Support Systems  
+- Digital Transformation and Industry 4.0  
+- Process Optimization, Quality Management, and Lean Systems  
+- CRM Analytics and Customer Intelligence  
 
 ---
 
-## 🎓 Education
+## 🧠 Methodological & Technical Expertise
 
-- **Axsos Academy**, Data Science & Machine Learning Bootcamp (2025)  
-  > 660+ hours of hands-on training in ML, DL, Time Series, Computer Vision & more
+### Data Science & Machine Learning
+- Statistical data analysis and exploratory data analysis (EDA)  
+- Supervised and unsupervised learning techniques  
+- Predictive modeling, regression, classification, and clustering  
+- Time series modeling and performance evaluation  
+- Feature engineering and model optimization  
 
-- **An-Najah National University**, M.Eng. in Engineering Management (2024)  
-  > Focused on project management, research and development, quality management, and product development
+### Analytics & Decision Support
+- Business intelligence and dashboard development  
+- Quantitative analysis and hypothesis testing  
+- Multivariate analysis and structural modeling  
 
-- **An-Najah National University**, BSc. in Management Information Systems (2019)
-  > Focused programming, decision making, and analytics
+### Tools & Technologies
+- Python for data analysis and modeling  
+- Jupyter Notebook and Google Colab  
+- Power BI, SmartPLS  
+- SPSS, Minitab, WEKA  
 
----
-
-## 🎤 Conferences & Presentations
-
-- **ICEISET23**, Nablus, Palestine (2023)  
-  _Presented:_ *Smart Energy Consumption Management in Residential Buildings*
-
-- **ISESE24**, Edinburgh, UK (2024)  
-  _Role:_ Key Speaker on energy behavior and sustainability
-
----
-
-## 📚 Publications
-
-- 📄 [Smart Energy Consumption Management](https://www.nature.com/articles/s41598-024-51638-y)  
-  *Springer Nature, Scientific Reports, 2024*
-
-- 📄 [Lean Tools in the Furniture Industry](https://journals.najah.edu/journal/anujr-a/issue/anujr-a-v38-i1/article/2147/)  
-  *An-Najah Journal – Natural Sciences, 2024*
+### Systems & Development
+- Information systems and ERP environments  
+- Web application development and system integration  
+- Automation-supported analytics workflows  
 
 ---
 
-## 🏅 Certifications
+## 📚 Academic & Applied Experience
 
-- [Total Quality Management (TQM)](https://www.credential.net/b1bf3f78-4bc7-42be-86ed-1602c23b61b2#acc.9rIfyMUn)  
-  *Hope International Co., Amman, Jordan*
-
----
-
-## 🤝 Let’s Connect
-
-Feel free to explore my repositories or connect with me professionally:
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/baraa-hakawati-b8a07a1b3)  
-- 📧 baraa-hakawati@hotmail.com
-- 🧠 [ResearchGate](https://www.researchgate.net/profile/Baraa-Hakawati)
+- Conducting applied research that integrates **machine learning and analytics** with management and operational contexts  
+- Developing data-driven frameworks for **process improvement and performance evaluation**  
+- Applying analytical methods to real-world domains such as **energy management, retail analytics, insurance, and operations**  
+- Bridging theoretical models with empirical validation and practical deployment considerations  
 
 ---
 
-> "Bridging the gap between engineering and AI to shape smarter, sustainable futures."
+## 📊 Selected Research & Project Domains
 
+- Predictive analytics for insurance and risk assessment  
+- Demand forecasting and retail analytics  
+- Smart energy consumption and IoT-based systems  
+- Digital platforms and data-enabled decision support tools  
+
+---
+
+## 🎓 Scholarly Orientation
+
+My academic approach emphasizes:
+
+- Methodological rigor and reproducibility  
+- Integration of theory and practice  
+- Empirical evaluation using real-world data  
+- Ethical and responsible use of data and analytics  
+
+I am particularly interested in research that explores how **Big Data Analytics**, **Machine Learning**, and **Industry 4.0 technologies** enhance organizational performance and strategic decision-making.
+
+---
+
+## 🤝 Collaboration Interests
+
+I am open to:
+
+- Academic and interdisciplinary research collaborations  
+- Applied research projects with industry relevance  
+- Data analytics and machine learning research roles  
+- Doctoral or post-graduate research opportunities  
+
+---
+
+📫 *Open to scholarly discussion, research collaboration, and applied analytics initiatives.*
+
+⭐ *Advancing knowledge through data, analytics, and intelligent systems.*
